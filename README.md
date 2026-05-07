@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm [اسمك]
 
-<!--
-**AliReda2014-web/AliReda2014-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer in learning  
+🎨 Currently learning HTML & CSS  
+🚀 Building my first real projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- HTML
+- CSS
+- Learning JavaScript soon
+
+---
+
+## 📌 Projects
+- Landing Page Project (coming soon)
+- Portfolio Website (in progress)
+
+---
+
+## 🎯 Goals
+- Become a Front-End Developer
+- Build real-world projects
+- Learn React later
+
+---
+
+⭐ Always learning, always building
