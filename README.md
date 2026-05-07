@@ -9,4 +9,4 @@ I'm ali, a Front-End Egyptian developer, current learning HTML & CSS.
 ## Goals
 - Become A Full Front-End Developer
 - Build real-world projects
-- Learn recat and node.js later
+- Learn react and node.js later
