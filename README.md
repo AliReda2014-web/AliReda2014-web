@@ -1,29 +1,12 @@
-# 👋 Hi, I'm [اسمك]
+# Hi I'm Ali 👋
+I'm ali, a Front-End Egyptian developer, current learning HTML & CSS.
 
-💻 Front-End Developer in learning  
-🎨 Currently learning HTML & CSS  
-🚀 Building my first real projects  
-
----
-
-## 🧠 Skills
+## Skills
 - HTML
-- CSS
-- Learning JavaScript soon
+- CSS(Current Learning)
+- JS(Learning soon)
 
----
-
-## 📌 Projects
-- Landing Page Project (coming soon)
-- Portfolio Website (in progress)
-
----
-
-## 🎯 Goals
-- Become a Front-End Developer
+## Goals
+- Become A Full Front-End Developer
 - Build real-world projects
-- Learn React later
-
----
-
-⭐ Always learning, always building
+- Learn recat and node.js later
